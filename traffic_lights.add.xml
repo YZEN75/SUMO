@@ -1,0 +1,10 @@
+<additional>
+<tlLogic id="traffic_light_r_0_r_2" type="static" programID="0" offset="0">
+<phase duration="50" state="GGrr" />
+<phase duration="50" state="GGrr" />
+</tlLogic>
+<tlLogic id="traffic_light_r_1_r_3" type="static" programID="0" offset="50">
+<phase duration="90" state="rrGG" />
+<phase duration="90" state="GGrr" />
+</tlLogic>
+</additional>
